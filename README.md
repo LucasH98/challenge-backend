@@ -4,7 +4,7 @@
 # Descrição
 
 
-Este é o repositório que contém minha solução  da primeira task , para o desafio de desenvolvimento "Challenge Backend" ,da empresa  B2W Market.
+Este é o repositório que contém minha solução  da primeira task do desafio de desenvolvimento "Challenge Backend" ,da empresa  B2W Market.
 O objetivo do desafio era criar um serviço que consumisse uma API externa, filtrasse os itens com base em datas e retornasse os resultados.
 
 # Tecnologias Utilizadas
