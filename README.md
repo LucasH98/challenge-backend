@@ -13,7 +13,7 @@ O objetivo do desafio era criar um serviço que consumisse uma API externa, filt
 
 -Spring Boot
 
--Spring Framework
+-Spring Data
 
 -RestTemplate
 
