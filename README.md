@@ -29,5 +29,5 @@ Este endpoint permite obter uma lista de itens filtrados com base nas datas forn
 begindate: Data de início no formato "dd-MM-yyyy"
 finaldate: Data final no formato "dd-MM-yyyy"
 
-##Exemplo de uso:
+## Exemplo de uso:
 GET http://localhost:8080/challenge-backend/item?begindate=05-10-2016&finaldate=10-10-2016
