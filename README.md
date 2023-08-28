@@ -1,13 +1,13 @@
 # Desafio de Desenvolvimento - Challenge Backend
 My implementation of b2w-marketplace Back-end challenge
 
-#Descrição
+# Descrição
 
 
 Este é o repositório que contém minha solução para o desafio de desenvolvimento "Challenge Backend".
 O objetivo do desafio era criar um serviço que consumisse uma API externa, filtrasse os itens com base em datas e retornasse os resultados.
 
-#Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 -Java
 -Spring Boot
@@ -15,12 +15,12 @@ O objetivo do desafio era criar um serviço que consumisse uma API externa, filt
 -RestTemplate
 -Postman
 
-#Endpoints
+# Endpoints
 
 GET /challenge-backend/item
 Este endpoint permite obter uma lista de itens filtrados com base nas datas fornecidas.
 
-##Parâmetros de consulta:
+## Parâmetros de consulta:
 
 begindate: Data de início no formato "dd-MM-yyyy"
 finaldate: Data final no formato "dd-MM-yyyy"
