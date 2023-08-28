@@ -1,7 +1,8 @@
 # Desafio de Desenvolvimento - Challenge Backend
 My implementation of b2w-marketplace Back-end challenge
 
-##Este é o repositório que contém minha solução para o desafio de desenvolvimento "Challenge Backend".
+#Descrição
+Este é o repositório que contém minha solução para o desafio de desenvolvimento "Challenge Backend".
 O objetivo do desafio era criar um serviço que consumisse uma API externa, filtrasse os itens com base em datas e retornasse os resultados.
 
 #Tecnologias Utilizadas
