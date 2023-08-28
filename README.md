@@ -10,9 +10,13 @@ O objetivo do desafio era criar um serviço que consumisse uma API externa, filt
 # Tecnologias Utilizadas
 
 -Java
+
 -Spring Boot
+
 -Spring Framework
+
 -RestTemplate
+
 -Postman
 
 # Endpoints
